@@ -1,0 +1,6 @@
+{
+  "name": "HKEX-extension",
+  "description": "An extension to get daily data from hkex",
+  "version": "1.0",
+  "manifest_version": 3
+}
